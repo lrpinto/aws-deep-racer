@@ -1,4 +1,4 @@
 # aws-deep-racer
-AWS DeepRacer training.
+AWS DeepRacer learning.
 
 https://aws.amazon.com/deepracer/
